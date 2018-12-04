@@ -7,6 +7,8 @@ All input and output of events is done though HTTP requests conforming to the NG
 
 ### About CEP
 
+
+
 The goal of a CEP is to process data in real time.
 Frequently implemented features include filtering, aggregating and merging real-time data from different sources.
 
